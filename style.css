@@ -11,7 +11,7 @@ header{
   border-bottom: 1px solid #CCC;
 }
 
-header.nav {
+nav.header {
   float: right;
 }
 
