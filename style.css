@@ -11,20 +11,20 @@ header{
   border-bottom: 1px solid #CCC;
 }
 
-header nav {
+header.nav {
   float: right;
 }
 
-nav ul {
+nav.ul {
   padding: 0 0 0 0;
   margin-top: 40px 0 0 0;
 }
 
-header h3 a {
+header.h3 a {
   float: left;
 }
 
-header nav ul li {
+header.nav ul.li {
   display: inlin;
   margin-right 10px;
 }
