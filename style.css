@@ -20,11 +20,11 @@ nav ul {
   margin-top: 40px 0 0 0;
 }
 
-header.h3 a {
+header h3 a {
   float: left;
 }
 
-header.nav ul.li {
+header nav ul li {
   display: inlin;
   margin-right 10px;
 }
