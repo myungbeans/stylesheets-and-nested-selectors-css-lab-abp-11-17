@@ -5,3 +5,26 @@
 body {
   padding: 0 30px 0 30px;
 }
+
+header{
+  height: 100px;
+  border-bottom: 1px solid #CCC;
+}
+
+header nav {
+  float: right;
+}
+
+nav.ul {
+  padding: 0 0 0 0;
+  margin-top: 40px 0 0 0;
+}
+
+header h3 a {
+  float: left;
+}
+
+header nav ul li {
+  display: inlin;
+  margin-right 10px;
+}
